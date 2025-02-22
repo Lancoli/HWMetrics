@@ -1,0 +1,1046 @@
+{
+    "Children": [
+        {
+            "Children": [
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                                {
+                                    "Children": [
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1,280 V",
+                                            "Min": "0,968 V",
+                                            "Text": "CPU VCore",
+                                            "Value": "1,144 V",
+                                            "id": 5
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1,008 V",
+                                            "Min": "1,000 V",
+                                            "Text": "Voltage #2",
+                                            "Value": "1,008 V",
+                                            "id": 6
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "3,312 V",
+                                            "Min": "3,312 V",
+                                            "Text": "AVCC",
+                                            "Value": "3,312 V",
+                                            "id": 7
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "3,376 V",
+                                            "Min": "3,344 V",
+                                            "Text": "3VCC",
+                                            "Value": "3,360 V",
+                                            "id": 8
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1,008 V",
+                                            "Min": "1,008 V",
+                                            "Text": "Voltage #5",
+                                            "Value": "1,008 V",
+                                            "id": 9
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "0,152 V",
+                                            "Min": "0,144 V",
+                                            "Text": "Voltage #6",
+                                            "Value": "0,144 V",
+                                            "id": 10
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "0,736 V",
+                                            "Min": "0,720 V",
+                                            "Text": "Voltage #7",
+                                            "Value": "0,728 V",
+                                            "id": 11
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "3,312 V",
+                                            "Min": "3,312 V",
+                                            "Text": "3VSB",
+                                            "Value": "3,312 V",
+                                            "id": 12
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1,064 V",
+                                            "Min": "1,056 V",
+                                            "Text": "VTT",
+                                            "Value": "1,064 V",
+                                            "id": 13
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "0,760 V",
+                                            "Min": "0,752 V",
+                                            "Text": "Voltage #11",
+                                            "Value": "0,752 V",
+                                            "id": 14
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "0,680 V",
+                                            "Min": "0,640 V",
+                                            "Text": "Voltage #12",
+                                            "Value": "0,648 V",
+                                            "id": 15
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1,040 V",
+                                            "Min": "1,040 V",
+                                            "Text": "Voltage #13",
+                                            "Value": "1,040 V",
+                                            "id": 16
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "0,600 V",
+                                            "Min": "0,600 V",
+                                            "Text": "Voltage #14",
+                                            "Value": "0,600 V",
+                                            "id": 17
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1,520 V",
+                                            "Min": "1,512 V",
+                                            "Text": "Voltage #15",
+                                            "Value": "1,512 V",
+                                            "id": 18
+                                        }
+                                    ],
+                                    "ImageURL": "images_icon/voltage.png",
+                                    "Max": "",
+                                    "Min": "",
+                                    "Text": "Voltages",
+                                    "Value": "",
+                                    "id": 4
+                                },
+                                {
+                                    "Children": [
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "70,5 \u00b0C",
+                                            "Min": "51,0 \u00b0C",
+                                            "Text": "CPU Core",
+                                            "Value": "58,5 \u00b0C",
+                                            "id": 20
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "44,0 \u00b0C",
+                                            "Min": "42,5 \u00b0C",
+                                            "Text": "Temperature #1",
+                                            "Value": "43,5 \u00b0C",
+                                            "id": 21
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "37,0 \u00b0C",
+                                            "Min": "35,0 \u00b0C",
+                                            "Text": "Temperature #2",
+                                            "Value": "36,0 \u00b0C",
+                                            "id": 22
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "41,0 \u00b0C",
+                                            "Min": "41,0 \u00b0C",
+                                            "Text": "Temperature #3",
+                                            "Value": "41,0 \u00b0C",
+                                            "id": 23
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "40,0 \u00b0C",
+                                            "Min": "39,0 \u00b0C",
+                                            "Text": "Temperature #4",
+                                            "Value": "40,0 \u00b0C",
+                                            "id": 24
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "47,0 \u00b0C",
+                                            "Min": "44,0 \u00b0C",
+                                            "Text": "Temperature #5",
+                                            "Value": "46,0 \u00b0C",
+                                            "id": 25
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "-1,0 \u00b0C",
+                                            "Min": "-1,0 \u00b0C",
+                                            "Text": "Temperature #6",
+                                            "Value": "-1,0 \u00b0C",
+                                            "id": 26
+                                        }
+                                    ],
+                                    "ImageURL": "images_icon/temperature.png",
+                                    "Max": "",
+                                    "Min": "",
+                                    "Text": "Temperatures",
+                                    "Value": "",
+                                    "id": 19
+                                },
+                                {
+                                    "Children": [
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1147 RPM",
+                                            "Min": "1122 RPM",
+                                            "Text": "Fan #1",
+                                            "Value": "1130 RPM",
+                                            "id": 28
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "1760 RPM",
+                                            "Min": "425 RPM",
+                                            "Text": "Fan #2",
+                                            "Value": "732 RPM",
+                                            "id": 29
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "902 RPM",
+                                            "Min": "885 RPM",
+                                            "Text": "Fan #3",
+                                            "Value": "895 RPM",
+                                            "id": 30
+                                        }
+                                    ],
+                                    "ImageURL": "images_icon/fan.png",
+                                    "Max": "",
+                                    "Min": "",
+                                    "Text": "Fans",
+                                    "Value": "",
+                                    "id": 27
+                                },
+                                {
+                                    "Children": [
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "65,1 %",
+                                            "Min": "32,5 %",
+                                            "Text": "Fan Control #1",
+                                            "Value": "45,5 %",
+                                            "id": 32
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "65,1 %",
+                                            "Min": "32,5 %",
+                                            "Text": "Fan Control #2",
+                                            "Value": "45,9 %",
+                                            "id": 33
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "57,6 %",
+                                            "Min": "57,6 %",
+                                            "Text": "Fan Control #3",
+                                            "Value": "57,6 %",
+                                            "id": 34
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "57,6 %",
+                                            "Min": "57,6 %",
+                                            "Text": "Fan Control #4",
+                                            "Value": "57,6 %",
+                                            "id": 35
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "57,6 %",
+                                            "Min": "57,6 %",
+                                            "Text": "Fan Control #5",
+                                            "Value": "57,6 %",
+                                            "id": 36
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "57,6 %",
+                                            "Min": "57,6 %",
+                                            "Text": "Fan Control #6",
+                                            "Value": "57,6 %",
+                                            "id": 37
+                                        },
+                                        {
+                                            "Children": [],
+                                            "ImageURL": "images/transparent.png",
+                                            "Max": "57,6 %",
+                                            "Min": "57,6 %",
+                                            "Text": "Fan Control #7",
+                                            "Value": "57,6 %",
+                                            "id": 38
+                                        }
+                                    ],
+                                    "ImageURL": "images_icon/control.png",
+                                    "Max": "",
+                                    "Min": "",
+                                    "Text": "Controls",
+                                    "Value": "",
+                                    "id": 31
+                                }
+                            ],
+                            "ImageURL": "images_icon/chip.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Nuvoton NCT6797D",
+                            "Value": "",
+                            "id": 3
+                        }
+                    ],
+                    "ImageURL": "images_icon/mainboard.png",
+                    "Max": "",
+                    "Min": "",
+                    "Text": "MSI MPG Z390 GAMING EDGE AC (MS-7B17)",
+                    "Value": "",
+                    "id": 2
+                },
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "100,0 MHz",
+                                    "Min": "100,0 MHz",
+                                    "Text": "Bus Speed",
+                                    "Value": "100,0 MHz",
+                                    "id": 41
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #1",
+                                    "Value": "4600,0 MHz",
+                                    "id": 42
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #2",
+                                    "Value": "4600,0 MHz",
+                                    "id": 43
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #3",
+                                    "Value": "4600,0 MHz",
+                                    "id": 44
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #4",
+                                    "Value": "4600,0 MHz",
+                                    "id": 45
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #5",
+                                    "Value": "4600,0 MHz",
+                                    "id": 46
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #6",
+                                    "Value": "4600,0 MHz",
+                                    "id": 47
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #7",
+                                    "Value": "4600,0 MHz",
+                                    "id": 48
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "4700,0 MHz",
+                                    "Min": "4600,0 MHz",
+                                    "Text": "CPU Core #8",
+                                    "Value": "4600,0 MHz",
+                                    "id": 49
+                                }
+                            ],
+                            "ImageURL": "images_icon/clock.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Clocks",
+                            "Value": "",
+                            "id": 40
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "72,0 \u00b0C",
+                                    "Min": "49,0 \u00b0C",
+                                    "Text": "CPU Core #1",
+                                    "Value": "55,0 \u00b0C",
+                                    "id": 51
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "65,0 \u00b0C",
+                                    "Min": "50,0 \u00b0C",
+                                    "Text": "CPU Core #2",
+                                    "Value": "57,0 \u00b0C",
+                                    "id": 52
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "75,0 \u00b0C",
+                                    "Min": "49,0 \u00b0C",
+                                    "Text": "CPU Core #3",
+                                    "Value": "56,0 \u00b0C",
+                                    "id": 53
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "75,0 \u00b0C",
+                                    "Min": "49,0 \u00b0C",
+                                    "Text": "CPU Core #4",
+                                    "Value": "55,0 \u00b0C",
+                                    "id": 54
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "65,0 \u00b0C",
+                                    "Min": "48,0 \u00b0C",
+                                    "Text": "CPU Core #5",
+                                    "Value": "54,0 \u00b0C",
+                                    "id": 55
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "68,0 \u00b0C",
+                                    "Min": "49,0 \u00b0C",
+                                    "Text": "CPU Core #6",
+                                    "Value": "54,0 \u00b0C",
+                                    "id": 56
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "67,0 \u00b0C",
+                                    "Min": "48,0 \u00b0C",
+                                    "Text": "CPU Core #7",
+                                    "Value": "53,0 \u00b0C",
+                                    "id": 57
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "72,0 \u00b0C",
+                                    "Min": "48,0 \u00b0C",
+                                    "Text": "CPU Core #8",
+                                    "Value": "55,0 \u00b0C",
+                                    "id": 58
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "75,0 \u00b0C",
+                                    "Min": "51,0 \u00b0C",
+                                    "Text": "CPU Package",
+                                    "Value": "57,0 \u00b0C",
+                                    "id": 59
+                                }
+                            ],
+                            "ImageURL": "images_icon/temperature.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Temperatures",
+                            "Value": "",
+                            "id": 50
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "61,7 %",
+                                    "Min": "2,9 %",
+                                    "Text": "CPU Total",
+                                    "Value": "18,9 %",
+                                    "id": 61
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "100,0 %",
+                                    "Min": "1,6 %",
+                                    "Text": "CPU Core #1",
+                                    "Value": "18,8 %",
+                                    "id": 62
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "64,1 %",
+                                    "Min": "1,6 %",
+                                    "Text": "CPU Core #2",
+                                    "Value": "32,8 %",
+                                    "id": 63
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "67,2 %",
+                                    "Min": "0,0 %",
+                                    "Text": "CPU Core #3",
+                                    "Value": "17,2 %",
+                                    "id": 64
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "56,3 %",
+                                    "Min": "0,0 %",
+                                    "Text": "CPU Core #4",
+                                    "Value": "25,0 %",
+                                    "id": 65
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "54,7 %",
+                                    "Min": "0,0 %",
+                                    "Text": "CPU Core #5",
+                                    "Value": "9,4 %",
+                                    "id": 66
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "76,6 %",
+                                    "Min": "0,0 %",
+                                    "Text": "CPU Core #6",
+                                    "Value": "18,8 %",
+                                    "id": 67
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "59,4 %",
+                                    "Min": "0,0 %",
+                                    "Text": "CPU Core #7",
+                                    "Value": "14,1 %",
+                                    "id": 68
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "67,2 %",
+                                    "Min": "0,0 %",
+                                    "Text": "CPU Core #8",
+                                    "Value": "15,6 %",
+                                    "id": 69
+                                }
+                            ],
+                            "ImageURL": "images_icon/load.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Load",
+                            "Value": "",
+                            "id": 60
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "74,8 W",
+                                    "Min": "19,1 W",
+                                    "Text": "CPU Package",
+                                    "Value": "41,4 W",
+                                    "id": 71
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "70,6 W",
+                                    "Min": "14,0 W",
+                                    "Text": "CPU Cores",
+                                    "Value": "30,4 W",
+                                    "id": 72
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "0,0 W",
+                                    "Min": "0,0 W",
+                                    "Text": "CPU Graphics",
+                                    "Value": "0,0 W",
+                                    "id": 73
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "2,4 W",
+                                    "Min": "1,0 W",
+                                    "Text": "CPU DRAM",
+                                    "Value": "1,6 W",
+                                    "id": 74
+                                }
+                            ],
+                            "ImageURL": "images_icon/power.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Powers",
+                            "Value": "",
+                            "id": 70
+                        }
+                    ],
+                    "ImageURL": "images_icon/cpu.png",
+                    "Max": "",
+                    "Min": "",
+                    "Text": "Intel Core i7-9700K",
+                    "Value": "",
+                    "id": 39
+                },
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "33,2 %",
+                                    "Min": "32,1 %",
+                                    "Text": "Memory",
+                                    "Value": "32,8 %",
+                                    "id": 77
+                                }
+                            ],
+                            "ImageURL": "images_icon/load.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Load",
+                            "Value": "",
+                            "id": 76
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "10,6 GB",
+                                    "Min": "10,2 GB",
+                                    "Text": "Used Memory",
+                                    "Value": "10,5 GB",
+                                    "id": 79
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "21,7 GB",
+                                    "Min": "21,3 GB",
+                                    "Text": "Available Memory",
+                                    "Value": "21,5 GB",
+                                    "id": 80
+                                }
+                            ],
+                            "ImageURL": "images_icon/power.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Data",
+                            "Value": "",
+                            "id": 78
+                        }
+                    ],
+                    "ImageURL": "images_icon/ram.png",
+                    "Max": "",
+                    "Min": "",
+                    "Text": "Generic Memory",
+                    "Value": "",
+                    "id": 75
+                },
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "1515,0 MHz",
+                                    "Min": "300,0 MHz",
+                                    "Text": "GPU Core",
+                                    "Value": "330,0 MHz",
+                                    "id": 83
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "7000,0 MHz",
+                                    "Min": "405,0 MHz",
+                                    "Text": "GPU Memory",
+                                    "Value": "405,0 MHz",
+                                    "id": 84
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "0,0 MHz",
+                                    "Min": "0,0 MHz",
+                                    "Text": "GPU Shader",
+                                    "Value": "0,0 MHz",
+                                    "id": 85
+                                }
+                            ],
+                            "ImageURL": "images_icon/clock.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Clocks",
+                            "Value": "",
+                            "id": 82
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "56,0 \u00b0C",
+                                    "Min": "52,0 \u00b0C",
+                                    "Text": "GPU Core",
+                                    "Value": "54,0 \u00b0C",
+                                    "id": 87
+                                }
+                            ],
+                            "ImageURL": "images_icon/temperature.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Temperatures",
+                            "Value": "",
+                            "id": 86
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "42,0 %",
+                                    "Min": "2,0 %",
+                                    "Text": "GPU Core",
+                                    "Value": "24,0 %",
+                                    "id": 89
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "21,0 %",
+                                    "Min": "0,0 %",
+                                    "Text": "GPU Frame Buffer",
+                                    "Value": "10,0 %",
+                                    "id": 90
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "7,0 %",
+                                    "Min": "0,0 %",
+                                    "Text": "GPU Video Engine",
+                                    "Value": "0,0 %",
+                                    "id": 91
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "2,0 %",
+                                    "Min": "0,0 %",
+                                    "Text": "GPU Bus Interface",
+                                    "Value": "1,0 %",
+                                    "id": 92
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "18,8 %",
+                                    "Min": "16,9 %",
+                                    "Text": "GPU Memory",
+                                    "Value": "17,2 %",
+                                    "id": 93
+                                }
+                            ],
+                            "ImageURL": "images_icon/load.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Load",
+                            "Value": "",
+                            "id": 88
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "0 RPM",
+                                    "Min": "0 RPM",
+                                    "Text": "GPU",
+                                    "Value": "0 RPM",
+                                    "id": 95
+                                }
+                            ],
+                            "ImageURL": "images_icon/fan.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Fans",
+                            "Value": "",
+                            "id": 94
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "0,0 %",
+                                    "Min": "0,0 %",
+                                    "Text": "GPU Fan",
+                                    "Value": "0,0 %",
+                                    "id": 97
+                                }
+                            ],
+                            "ImageURL": "images_icon/control.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Controls",
+                            "Value": "",
+                            "id": 96
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "61,0 W",
+                                    "Min": "26,5 W",
+                                    "Text": "GPU Power",
+                                    "Value": "30,1 W",
+                                    "id": 99
+                                }
+                            ],
+                            "ImageURL": "images_icon/power.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Powers",
+                            "Value": "",
+                            "id": 98
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "6806,6 MB",
+                                    "Min": "6647,8 MB",
+                                    "Text": "GPU Memory Free",
+                                    "Value": "6784,3 MB",
+                                    "id": 101
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "1544,2 MB",
+                                    "Min": "1385,4 MB",
+                                    "Text": "GPU Memory Used",
+                                    "Value": "1407,7 MB",
+                                    "id": 102
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "8192,0 MB",
+                                    "Min": "8192,0 MB",
+                                    "Text": "GPU Memory Total",
+                                    "Value": "8192,0 MB",
+                                    "id": 103
+                                }
+                            ],
+                            "ImageURL": "images_icon/power.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Data",
+                            "Value": "",
+                            "id": 100
+                        },
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "388,0 KB/s",
+                                    "Min": "2,0 KB/s",
+                                    "Text": "GPU PCIE Rx",
+                                    "Value": "309,0 KB/s",
+                                    "id": 105
+                                },
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "38,0 KB/s",
+                                    "Min": "0,0 KB/s",
+                                    "Text": "GPU PCIE Tx",
+                                    "Value": "38,0 KB/s",
+                                    "id": 106
+                                }
+                            ],
+                            "ImageURL": "images_icon/power.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Throughput",
+                            "Value": "",
+                            "id": 104
+                        }
+                    ],
+                    "ImageURL": "images_icon/nvidia.png",
+                    "Max": "",
+                    "Min": "",
+                    "Text": "NVIDIA NVIDIA GeForce RTX 2080",
+                    "Value": "",
+                    "id": 81
+                },
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "44,8 %",
+                                    "Min": "44,8 %",
+                                    "Text": "Used Space",
+                                    "Value": "44,8 %",
+                                    "id": 109
+                                }
+                            ],
+                            "ImageURL": "images_icon/load.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Load",
+                            "Value": "",
+                            "id": 108
+                        }
+                    ],
+                    "ImageURL": "images_icon/hdd.png",
+                    "Max": "",
+                    "Min": "",
+                    "Text": "Generic Hard Disk",
+                    "Value": "",
+                    "id": 107
+                },
+                {
+                    "Children": [
+                        {
+                            "Children": [
+                                {
+                                    "Children": [],
+                                    "ImageURL": "images/transparent.png",
+                                    "Max": "91,3 %",
+                                    "Min": "91,3 %",
+                                    "Text": "Used Space",
+                                    "Value": "91,3 %",
+                                    "id": 112
+                                }
+                            ],
+                            "ImageURL": "images_icon/load.png",
+                            "Max": "",
+                            "Min": "",
+                            "Text": "Load",
+                            "Value": "",
+                            "id": 111
+                        }
+                    ],
+                    "ImageURL": "images_icon/hdd.png",
+                    "Max": "",
+                    "Min": "",
+                    "Text": "Generic Hard Disk",
+                    "Value": "",
+                    "id": 110
+                }
+            ],
+            "ImageURL": "images_icon/computer.png",
+            "Max": "",
+            "Min": "",
+            "Text": "DESKTOP-OCEFK3O",
+            "Value": "",
+            "id": 1
+        }
+    ],
+    "ImageURL": "",
+    "Max": "Max",
+    "Min": "Min",
+    "Text": "Sensor",
+    "Value": "Value",
+    "id": 0
+}
